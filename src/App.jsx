@@ -17,7 +17,8 @@ function App() {
 
   return (
     <div style={{ maxWidth: 400, margin: '2rem auto', padding: 20, border: '1px solid #ccc', borderRadius: 8 }}>
-      <h2>Todo App</h2>
+      <h2>Hi This is Kumar </h2>
+      <h2>And this is my Todo App</h2>
       <form onSubmit={addTodo} style={{ display: 'flex', gap: 8 }}>
         <input
           type="text"
